@@ -1,0 +1,23 @@
+[
+    {
+        "id": "device_id_here",
+        "expiresAt": "2030-12-31",
+        "Customer": "Michael",
+        "Package.name": "com.pixel.lab",
+        "allowOffline": true
+    },
+    {
+        "id": "9d2e3a2e17ec2874",
+        "expiresAt": "2040-12-31",
+        "Customer": "lucy",
+        "Package.name": "com.munowatch.pro",
+        "allowOffline": true
+    },
+    {
+        "id": "device_id_here",
+        "expiresAt": "2040-12-31",
+        "Customer": "lucy",
+        "Package.name": "com.libraryrepo",
+        "allowOffline": true
+    }
+]
